@@ -1,0 +1,56 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 16:03:44 #1 store] 
+Database 'C:\Users\telmo\Desktop\DEMO IS\Bets21\src\main\resources\bets.temp' is opened by 14840@DESKTOP-7ADQIQM
+
+[2021-06-06 16:03:44 #2 type.registry] 
+New type domain.Cuenta
+
+[2021-06-06 16:03:44 #3 type] 
+Type domain.Cuenta is not enhanced.
+
+[2021-06-06 16:03:44 #4 type.registry] 
+New type domain.CuentaAhorro
+
+[2021-06-06 16:03:45 #5 type.registry] 
+New type java.util.Vector<domain.CuentaAhorro>
+
+[2021-06-06 16:03:45 #6 type] 
+Type domain.CuentaAhorro is not enhanced.
+
+[2021-06-06 16:03:45 #7 type.registry] 
+New type domain.Apuesta
+
+[2021-06-06 16:03:45 #8 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2021-06-06 16:03:45 #9 type] 
+Type domain.Apuesta is not enhanced.
+
+[2021-06-06 16:03:45 #10 type.registry] 
+New type domain.Pronostico
+
+[2021-06-06 16:03:45 #11 type.registry] 
+New type domain.Question
+
+[2021-06-06 16:03:45 #12 type.registry] 
+New type domain.Event
+
+[2021-06-06 16:03:45 #13 type] 
+Type domain.Pronostico is not enhanced.
+
+[2021-06-06 16:03:45 #14 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-06 16:03:45 #15 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2021-06-06 16:03:45 #16 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-06 16:03:45 #17 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-06 16:03:45 #18 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
